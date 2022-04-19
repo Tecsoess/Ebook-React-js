@@ -31,28 +31,28 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 ------------
 
 
-### :fa-check-circle: Sobre el Marketplace
+### Sobre el Marketplace
 - 100% responsiva, se adapta a los tamaños de pantallas más comunes.
 - En comunicación con el backend se realizan envíos de correos electrónicos para casos como registro de usuario, olvido de contraseña entre otras opciones.
 - Websocket para notificaciones y chat en tiempo real.
 
-### :fa-check-circle:  Sobre el panel administrativo para tiendas
+###  Sobre el panel administrativo para tiendas
 - 100% responsiva, se adapta a los tamaños de pantallas más comunes.
 - Control de parámetros y opciones relacionadas con las tiendas del Marketplace.
 - En comunicación con el backend se realizan envíos de correos electrónicos para casos como registro de usuario, olvido de contraseña entre otras opciones.
 - Websocket para notificaciones y chat en tiempo real.
 
-### :fa-check-circle:  Sobre el panel administrativo general del Marketplace
+### Sobre el panel administrativo general del Marketplace
 - UI/UX empresarial.
 - Control de parámetros y opciones del Marketplace.
 
-### :fa-check-circle:  Sobre el panel administrativo general del Marketplacebackend
+### Sobre el panel administrativo general del Marketplacebackend
 - Procesos programados para ejecuciones automáticas que requiera el cliente: envío de notificaciones, correos electrónicos entre otros.
 - Websockets para comunicaciones en tiempo real.
 - Procesador de pago y motor de búsqueda.
 
 
-## :blush: :bowtie: Repositorios según los perfiles
+## Repositorios según los perfiles
 
 ------------
 
