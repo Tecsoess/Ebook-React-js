@@ -5,12 +5,9 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 ![](https://i.imgur.com/Sag0hOi.jpg)
 
 
-## Caracteristicas del Proyecto:
+##Caracteristicas del Proyecto
 
 ------------
-
-
-
 - Aplicaciones responsivas
 - Aplicaciones administrativas.
 - RESTFUL APIs.
