@@ -90,7 +90,7 @@ Configurar variables de entorno en el archivo .env
 
 
 
-##  :fa-book: Indice de Ebooks
+##  Indice de Ebooks
 ------------
 
 * [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) 
