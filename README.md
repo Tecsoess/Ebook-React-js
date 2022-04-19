@@ -92,14 +92,14 @@ Configurar variables de entorno en el archivo .env
 ## Indice de Ebooks
 ------------
 
-* [React.js](https://github.com/Tecsoess/Ebook-React-js) 
-* [React Native](https://github.com/Tecsoess/Ebook-React-Native)
-* [Node](https://github.com/Tecsoess/Node) 
-* [Nginx](https://github.com/Tecsoess/Nginx) 
-* [NestJS](https://github.com/Tecsoess/NEST.JS) 
-* [TypeScript ](https://github.com/Tecsoess/Typescript)
-* [Github ](https://github.com/Tecsoess/GITHUB)
-* [Metodología Ágil](https://github.com/Tecsoess/Metodologia-Agil)
-* [Jira software](https://github.com/Tecsoess/Jira)
-* [Navicat](https://github.com/Tecsoess/Navicat)
+* [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) 
+* [React Native](https://github.com/Tecsoess/Ebook-React-Native/wiki)
+* [Node](https://github.com/Tecsoess/Node/wiki) 
+* [Nginx](https://github.com/Tecsoess/Nginx/wiki) 
+* [NestJS](https://github.com/Tecsoess/NEST.JS/wiki) 
+* [TypeScript ](https://github.com/Tecsoess/Typescript/wiki)
+* [Github ](https://github.com/Tecsoess/GITHUB/wiki)
+* [Metodología Ágil](https://github.com/Tecsoess/Metodologia-Agil/wiki)
+* [Jira software](https://github.com/Tecsoess/Jira/wiki)
+* [Navicat](https://github.com/Tecsoess/Navicat/wiki)
 
