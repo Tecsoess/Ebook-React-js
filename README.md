@@ -5,7 +5,7 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 ![](https://i.imgur.com/Sag0hOi.jpg)
 
 
-##Caracteristicas del Proyecto
+## Caracteristicas del Proyecto
 
 ------------
 - Aplicaciones responsivas
@@ -90,6 +90,7 @@ Configurar variables de entorno en el archivo .env
 
 
 ## Indice de Ebooks
+------------
 
 * [React.js](https://github.com/Tecsoess/Ebook-React-js) 
 * [React Native](https://github.com/Tecsoess/Ebook-React-Native)
