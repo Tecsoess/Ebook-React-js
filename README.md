@@ -19,7 +19,7 @@
 - Motor de búsqueda.
 - Despliegue en servidor.
 
-##Caracteristicas del Marketplace Beneficiosi
+## Caracteristicas del Marketplace Beneficiosi
 - Plataforma moderna para economía bajo demanda y mercados digitales
 - ¡Todo reactivo, en tiempo real y ultrarrápido!
 - Personalización del sitio web de comercio electrónico de compras para que los clientes realicen compras de alimentos, bienes o servicios a pedido en el navegador
