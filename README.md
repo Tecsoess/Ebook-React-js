@@ -1,6 +1,6 @@
-#  [Beneficiosi.com](http://tubeneficiosi.com/ "Beneficiosi.com")
+#  [Beneficiosi](http://tubeneficiosi.com/ "Beneficiosi.com")
 
-[Beneficiosi](http://http://tubeneficiosi.com/ "Beneficiosi") es una plataforma tipo [marketplace](https://en.wikipedia.org/wiki/Marketplace "marketplace"), que cuenta con aplicación web y móvil desarrollada principalmente con [React.js](https://es.reactjs.org/ "React.js") Donde clientes y vendedores realizan transacciones de compra y venta de productos y eventos.
+[Tubeneficiosi.com](http://http://tubeneficiosi.com/ "Beneficiosi") es una plataforma tipo [marketplace](https://en.wikipedia.org/wiki/Marketplace "marketplace"), que cuenta con aplicación web y móvil desarrollada principalmente con [React.js](https://es.reactjs.org/ "React.js") Donde clientes y vendedores realizan transacciones de compra y venta de productos y eventos.
 
 ![](https://i.imgur.com/NCqhG5D.jpg)
 
