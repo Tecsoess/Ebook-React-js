@@ -87,7 +87,7 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 
 ##  Perfiles Cliente, Tienda y Administrador.
 
-###  Cliente
+- ###  Cliente
                     
 >Frontend principal para el marketplace [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
 
@@ -108,7 +108,7 @@ cp .env-example .env
 npm run start
 ```
 
-### Tienda
+- ### Tienda
                     
 >Frontend de Tiendas para el marketplace [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
 
@@ -129,7 +129,7 @@ cp .env-example .env
 npm run start
 ```
 
-### Administrador
+- ### Administrador
                     
 >Frontend de administración para el marketplace [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
 
@@ -175,7 +175,7 @@ npm run start:dev
 ##  App movil de Beneficiosi
 Aplicacion móvil creada en [React-Native](https://reactnative.dev/ "React-Native") para el marketplace  [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
 
-![](https://i.imgur.com/NCqhG5D.jpg)
+![](https://i.imgur.com/L3T8VX5.png)
 
 ### Requisitos 
 - [NodeJs](https://nodejs.org/es/download/ "NodeJs")
@@ -188,12 +188,12 @@ Aplicacion móvil creada en [React-Native](https://reactnative.dev/ "React-Nativ
 ### Instalación e Inicialización
 
 > 1. Clonar el repositorio
-2. Cambiar a la rama develop
-3. Instalar las dependencias con node
-4. Iniciar el emulador android o conectar el dispositivo android a la pc por usb
-5. Iniciar la app
- 5.1  Iniciar el bundle
- 5.2 Compilar la app
+>2. Cambiar a la rama develop
+>3. Instalar las dependencias con node
+>4. Iniciar el emulador android o conectar el dispositivo android a la pc por usb
+>5. Iniciar la app
+ >5.1  Iniciar el bundle
+ > 5.2 Compilar la app
  
 ```bash
 git clone https://github.com/JeyverVegas/BeneficioSiApp.git
