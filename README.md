@@ -1,6 +1,6 @@
-##  [Beneficiosi.com](http://tubeneficiosi.com/ "Beneficiosi.com")
+#  [Beneficiosi.com](http://tubeneficiosi.com/ "Beneficiosi.com")
 
-Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y mobile, desarrollada principalmente con [React.js](https://es.reactjs.org/ "React.js")
+[Beneficiosi](http://http://tubeneficiosi.com/ "Beneficiosi") es una plataforma tipo [marketplace](https://en.wikipedia.org/wiki/Marketplace "marketplace"), que cuenta con aplicación web y móvil desarrollada principalmente con [React.js](https://es.reactjs.org/ "React.js") Donde clientes y vendedores realizan transacciones de compra y venta de productos y eventos.
 
 ![](https://i.imgur.com/NCqhG5D.jpg)
 
@@ -12,12 +12,24 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 ## Caracteristicas del Proyecto
 
 ------------
-- Aplicaciones responsivas
-- Aplicaciones administrativas.
+- Desarrollo de aplicaciones responsivas
+- Desarrollo de aplicaciones administrativas (Tiendas y Administrador del markerplace). 
 - RESTFUL APIs.
 - Procesador de pago.
 - Motor de búsqueda.
 - Despliegue en servidor.
+
+##Caracteristicas del Marketplace Beneficiosi
+- Plataforma moderna para economía bajo demanda y mercados digitales
+- ¡Todo reactivo, en tiempo real y ultrarrápido!
+- Personalización del sitio web de comercio electrónico de compras para que los clientes realicen compras de alimentos, bienes o servicios a pedido en el navegador
+- Sitio web de administración utilizado para administrar todas las funciones y configuraciones de la plataforma en una interfaz Web
+- Catálogos de productos con múltiples imágenes de productos, variantes de productos, facetas y búsqueda de texto completo.
+- Pasarela y procesamiento de pagos (Pasarela de pago admitida actualmente - Mercado libre)
+- Integraciones de proveedores de envío de terceros
+
+
+
 
 
 ## Tecnologías 
@@ -37,22 +49,22 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 ------------
 
 
-###  Sobre el Marketplace
+###  Marketplace
 - 100% responsiva, se adapta a los tamaños de pantallas más comunes.
 - En comunicación con el backend se realizan envíos de correos electrónicos para casos como registro de usuario, olvido de contraseña entre otras opciones.
 - Websocket para notificaciones y chat en tiempo real.
 
-###  Sobre el panel administrativo para tiendas
+###  Panel de administración de las Tiendas 
 - 100% responsiva, se adapta a los tamaños de pantallas más comunes.
 - Control de parámetros y opciones relacionadas con las tiendas del Marketplace.
 - En comunicación con el backend se realizan envíos de correos electrónicos para casos como registro de usuario, olvido de contraseña entre otras opciones.
 - Websocket para notificaciones y chat en tiempo real.
 
-###   Sobre el panel administrativo general del Marketplace
+###   Panel de administración general
 - UI/UX empresarial.
 - Control de parámetros y opciones del Marketplace.
 
-###  Sobre el backend del Marketplace
+###  Backend 
 - Procesos programados para ejecuciones automáticas que requiera el cliente: envío de notificaciones, correos electrónicos entre otros.
 - Websockets para comunicaciones en tiempo real.
 - Procesador de pago y motor de búsqueda.
@@ -93,7 +105,7 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 
 
 
-##  Perfiles Cliente, Tienda y Administrador.
+##  Perfiles: Cliente, Tienda y Administrador.
 
 - ###  Cliente
                     
@@ -180,7 +192,7 @@ cp .env-example .env
 npm run start:dev
 ```
 
-##  App movil de Beneficiosi
+#  App movil de Beneficiosi
 Aplicacion móvil creada en [React-Native](https://reactnative.dev/ "React-Native") para el marketplace  [Beneficio Si](http://tubeneficiosi.com "Beneficio Si")
 
 ![](https://i.imgur.com/L3T8VX5.png)
@@ -210,6 +222,12 @@ npm i
 react-native
 react-native run-android
 ```
+
+## Seguridad
+
+En una configuración de producción, todas las comunicaciones del lado del cliente al lado del servidor (backend, API) deben cifrarse mediante HTTPS/WSS/SSL (API REST, extremo de GraphQL, Socket.io WebSockets, etc.).
+
+Si descubre algún problema relacionado con la seguridad, divulgue la información de manera responsable enviando un correo electrónico a atencionalcliente@beneficiosi.com
 
 
 
