@@ -19,9 +19,13 @@ Beneficiosi es una plataforma tipo marketplace, que cuenta con aplicación web y
 ## Tecnologías 
 ------------
 - [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) Actualmente una de las más empleadas para el desarrollo web y mantenida por Facebook.
+- [React-Native](https://reactnative.dev/ "React-Native") Utilizasa para de desarrollar aplicaciones para Android. 
 - [Node.js](https://github.com/Tecsoess/Node/wiki) De gran demanda actual, debido a que es considerada tecnología líder en desarrollo para servidores.
 - [Tailwindcss](https://tailwindcss.com/ "Tailwindcss")  Framework de CSS que brinda los componentes basicos para crear diseños personalizados.
 - [Material IU](https://mui.com/ "Material IU") Permite importar y usar diferentes componentes para crear una interfaz de usuario en nuestras aplicaciones React.
+-  [NestJS](https://github.com/Tecsoess/NEST.JS "NestJS") Este framework para el desarrollo de aplicaciones en el lado del servidor, proporciona una arquitectura que permite un desarrollo más facil de mantener. 
+- [TypeScript](https://github.com/Tecsoess/Typescript "TypeScript") Lenguaje superconjunto de Javascript que esencialmente añade tipos estáticos y objetos basados en clases. 
+- [MySQL](https://www.mysql.com/ "MySQL") Sistema de gestion de base de datos relacionales que emplea un modelo cliente-servidor.
 
 
 
