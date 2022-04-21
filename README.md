@@ -235,7 +235,7 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
 ------------
 
 * [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) 
- - [React.js Essentials](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Fpreview%2F454483518576560&sa=D&sntz=1&usg=AFQjCNFkxTsCzHtFrEmB40rTlO6jQwTOyw "React.js Essentials")
+ -- [React.js Essentials](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-I:-REACT.JS-ESSENTIALS)
    - Installing Powerful Tools for Your Project
    - Create Your First React Element
    - Create Your First React Component
@@ -246,7 +246,7 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
    - Test Your React Application with Jest
    - Supercharge Your React Architecture with Flux
    - Prepare Your React Application for Painless Maintenance with Flux
- - [React by example](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Fpreview%2F2276821785751849&sa=D&sntz=1&usg=AFQjCNH04sp2DvAME5nkVBbYuHFqdV0lgg "React by example")
+ -- [React by example](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-II:-REACT.JS-BY-EXAMPLE)
    - Getting Started with React
    - JSX in Depth
    - Data Flow and Life Cycle Events
@@ -258,15 +258,15 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
    - Animation
    - Flux
    - Redux and React
- - React Cookbook
- - Full stack react
- - Introduction to react
- - Learning react
- - Getting with react
- - Design patterns and best practices
- - Learning ext js
- - React
- - Full stack development with graph and react
+ -- [React Cookbook](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IV:-FULL--STACK-REACT)
+ - [Full stack react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IV:-FULL--STACK-REACT "Full stack react")
+ - [Introduction to react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IX:-INTRODUCTION-TO-REACT "Introduction to react")
+ - [Learning react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-V:-LEARNING-REACT "Learning react")
+ - [Getting with react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VI:-GETTING-WITH-REACT "Getting with react")
+ - [Design patterns and best practices](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VII:-DESIGN-PATTERNS-AND-BEST-PRACTICES "Design patterns and best practices")
+ - [Learning ext js](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VIII:-LEARNING-EXT-JS "Learning ext js")
+ - [React](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-X:-REACT "React")
+ - [Full stack development with graph and react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-XI:-FULL-STACK-DEVELOPMENT-WITH-GRAPH-AND-REACT "Full stack development with graph and react")
  
 * [React Native](https://github.com/Tecsoess/Ebook-React-Native/wiki)
 * [Node](https://github.com/Tecsoess/Node/wiki) 
