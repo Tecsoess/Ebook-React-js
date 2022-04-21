@@ -235,6 +235,39 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
 ------------
 
 * [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) 
+ - [React.js Essentials](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Fpreview%2F454483518576560&sa=D&sntz=1&usg=AFQjCNFkxTsCzHtFrEmB40rTlO6jQwTOyw "React.js Essentials")
+   - Installing Powerful Tools for Your Project
+   - Create Your First React Element
+   - Create Your First React Component
+   - Make Your React Components Reactive
+   - Use Your React Components with Another Library
+   - Update Your React Components
+   - Build Complex React Components
+   - Test Your React Application with Jest
+   - Supercharge Your React Architecture with Flux
+   - Prepare Your React Application for Painless Maintenance with Flux
+ - [React by example](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Fpreview%2F2276821785751849&sa=D&sntz=1&usg=AFQjCNH04sp2DvAME5nkVBbYuHFqdV0lgg "React by example")
+   - Getting Started with React
+   - JSX in Depth
+   - Data Flow and Life Cycle Events
+   - Composite Dynamic Components
+   - Mixins and the DOM
+   - React on the Server
+   - React Addons
+   - Performance of React Apps
+   - Animation
+   - Flux
+   - Redux and React
+ - React Cookbook
+ - Full stack react
+ - Introduction to react
+ - Learning react
+ - Getting with react
+ - Design patterns and best practices
+ - Learning ext js
+ - React
+ - Full stack development with graph and react
+ 
 * [React Native](https://github.com/Tecsoess/Ebook-React-Native/wiki)
 * [Node](https://github.com/Tecsoess/Node/wiki) 
 * [Nginx](https://github.com/Tecsoess/Nginx/wiki) 
