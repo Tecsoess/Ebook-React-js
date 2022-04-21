@@ -235,50 +235,67 @@ Si descubre algún problema relacionado con la seguridad, divulgue la informaci�
 ------------
 
 * [React.js](https://github.com/Tecsoess/Ebook-React-js/wiki) 
- -- [React.js Essentials](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-I:-REACT.JS-ESSENTIALS)
-   - Installing Powerful Tools for Your Project
-   - Create Your First React Element
-   - Create Your First React Component
-   - Make Your React Components Reactive
-   - Use Your React Components with Another Library
-   - Update Your React Components
-   - Build Complex React Components
-   - Test Your React Application with Jest
-   - Supercharge Your React Architecture with Flux
-   - Prepare Your React Application for Painless Maintenance with Flux
- -- [React by example](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-II:-REACT.JS-BY-EXAMPLE)
-   - Getting Started with React
-   - JSX in Depth
-   - Data Flow and Life Cycle Events
-   - Composite Dynamic Components
-   - Mixins and the DOM
-   - React on the Server
-   - React Addons
-   - Performance of React Apps
-   - Animation
-   - Flux
-   - Redux and React
- -- [React Cookbook](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IV:-FULL--STACK-REACT)
- - [Full stack react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IV:-FULL--STACK-REACT "Full stack react")
- - [Introduction to react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IX:-INTRODUCTION-TO-REACT "Introduction to react")
- - [Learning react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-V:-LEARNING-REACT "Learning react")
- - [Getting with react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VI:-GETTING-WITH-REACT "Getting with react")
- - [Design patterns and best practices](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VII:-DESIGN-PATTERNS-AND-BEST-PRACTICES "Design patterns and best practices")
- - [Learning ext js](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VIII:-LEARNING-EXT-JS "Learning ext js")
- - [React](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-X:-REACT "React")
- - [Full stack development with graph and react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-XI:-FULL-STACK-DEVELOPMENT-WITH-GRAPH-AND-REACT "Full stack development with graph and react")
- 
+	 - [React.js Essentials](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-I:-REACT.JS-ESSENTIALS)
+ 	- [React by example](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-II:-REACT.JS-BY-EXAMPLE)
+	 - [React Cookbook](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IV:-FULL--STACK-REACT)
+	 - [Full stack react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IV:-FULL--STACK-REACT "Full stack react")
+ 	- [Introduction to react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-IX:-INTRODUCTION-TO-REACT "Introduction to react")
+ 	- [Learning react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-V:-LEARNING-REACT "Learning react")
+	 - [Getting with react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VI:-GETTING-WITH-REACT "Getting with react")
+	 - [Design patterns and best practices](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VII:-DESIGN-PATTERNS-AND-BEST-PRACTICES "Design patterns and best practices")
+ 	- [Learning ext js](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-VIII:-LEARNING-EXT-JS "Learning ext js")
+ 	- [React](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-X:-REACT "React")
+ 	- [Full stack development with graph and react](https://github.com/Tecsoess/Ebook-React-js/wiki/CAPITULO-XI:-FULL-STACK-DEVELOPMENT-WITH-GRAPH-AND-REACT "Full stack development with graph and react")
+
 * [React Native](https://github.com/Tecsoess/Ebook-React-Native/wiki)
+	- [Getting started with react native](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-I:-GETTING-STARTED-WITH-REACT-NATIVE "Getting started with react native")
+	-  [Practical react native](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-II:-PRACTICAL-REACT-NATIVE)
+	- [React Native cookbook](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-III:-REACT-NATIVE-COOKBOOK "React Native cookbook")
+	-  [30 Days of react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-IV:-30-DAYS-OF-REACT "30 Days of react")
+	-  [Progressive web apps with react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-IX:-PROGRESSIVE-WEB-APPS-WITH-REACT "Progressive web apps with react")
+	-  [Mastering react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-V:-MASTERING-REACT "Mastering react")
+	-  [Fullstack react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-VI:-FULLSTACK-REACT "Fullstack react")
+	-  [Getting started with react](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-VII:-GETTING-STARTED-WITH-REACT "Getting started with react") 
+	- [Mastering react native](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-VIII:-MASTERING-REACT-NATIVE "Mastering react native") 
+	- [React and react native](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-X:-REACT-AND-REACT-NATIVE "React and react native")
+	-  [React native blueprints](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-XI:-REACT-NATIVE-BLUEPRINTS "React native blueprints")
+	-  [React native tutorials point](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-XII:-REACT-NATIVE-TUTORIALS-POINT "React native tutorials point")
+	-  [Android apps](https://github.com/Tecsoess/Ebook-React-Native/wiki/CAPITULO-XIII:-ANDROID-APPS "Android apps")
+
 * [Node](https://github.com/Tecsoess/Node/wiki) 
-* [Nginx](https://github.com/Tecsoess/Nginx/wiki) 
+	- [Node.Js Web Development](https://github.com/Tecsoess/Node/wiki/CAPITULO-I:-NODE.JS-WEB-DEVELOPMENT "Node.Js Web Development")
+	-  [Node Applications](https://github.com/Tecsoess/Node/wiki/CAPITULO-III:--NODE-APPLICATIONS "Node Applications")
+	- [Web Development With Mongodb And Node](https://github.com/Tecsoess/Node/wiki/CAPITULO-III:-WEB-DEVELOPMENT-WITH-MONGODB-AND-NODE "Web Development With Mongodb And Node")
+	-  [Node](https://github.com/Tecsoess/Node/wiki/CAPITULO-IV:-NODE "Node")
+	-  [A Progressive Node.Js Framework](https://github.com/Tecsoess/Node/wiki/CAPITULO-V:-A-PROGRESSIVE-NODE.JS-FRAMEWORK "A Progressive Node.Js Framework")
+	-  [Node.Js In Practice](https://github.com/Tecsoess/Node/wiki/CAPITULO-VI:-NODE.JS-IN-PRACTICE "Node.Js In Practice")
+	
+	
 * [NestJS](https://github.com/Tecsoess/NEST.JS/wiki) 
+	- [Nest.Js: A Progressive Node.Js Framework](https://github.com/Tecsoess/NEST.JS/wiki/CAPITULO-I:-NEST.JS:-A-PROGRESSIVE-NODE.JS-FRAMEWORK "Nest.Js: A Progressive Node.Js Framework")
+	-  [Nest.Js Build A Restful Crud Api](https://github.com/Tecsoess/NEST.JS/wiki/CAPITULO-II:-NEST.JS-BUILD-A-RESTFUL-CRUD-API "Nest.Js Build A Restful Crud Api")
+	- [Application With Nestjs Framework](https://github.com/Tecsoess/NEST.JS/wiki/CAPITULO-III:-APPLICATION-WITH-NESTJS-FRAMEWORK "Application With Nestjs Framework")
+	-  [Manual De Nest](https://github.com/Tecsoess/NEST.JS/wiki/CAPITULO-IV:--MANUAL-DE-NEST "Manual De Nest")
+	
 * [TypeScript ](https://github.com/Tecsoess/Typescript/wiki)
-* [Github ](https://github.com/Tecsoess/GITHUB/wiki)
+	- [Essential Typescript](https://github.com/Tecsoess/Typescript/wiki/CAPITULO-I:-ESSENTIAL-TYPESCRIPT "Essential Typescript")
+	-  [The Typescript Workshop](https://github.com/Tecsoess/Typescript/wiki/CAPITULO-II:-THE-TYPESCRIPT-WORKSHOP "The Typescript Workshop")
+	- [Efective Typescript](https://github.com/Tecsoess/Typescript/wiki/CAPITULO-III:-EFECTIVE-TYPESCRIPT "Efective Typescript")
+	-  [Typescript Microservices](https://github.com/Tecsoess/Typescript/wiki/CAPITULO-IV:-TYPESCRIPT-MICROSERVICES "Typescript Microservices")
+	-  [Advanced Typescript Programming Projects](https://github.com/Tecsoess/Typescript/wiki/CAPITULO-V:-ADVANCED-TYPESCRIPT-PROGRAMMING-PROJECTS "Advanced Typescript Programming Projects")
+	-  [Angular Development Typescript](https://github.com/Tecsoess/Typescript/wiki/CAPITULO-VI:-ANGULAR-DEVELOPMENT-TYPESCRIPT "Angular Development Typescript")
+	-  [Typescript Quikly](https://github.com/Tecsoess/Typescript/wiki/CAPITULO-VII:-TYPESCRIPT-QUIKLY "Typescript Quikly")
+	
+
 * [Metodología Ágil](https://github.com/Tecsoess/Metodologia-Agil/wiki)
-* [Jira software](https://github.com/Tecsoess/Jira/wiki)
-* [Navicat](https://github.com/Tecsoess/Navicat/wiki)
-
-
-
+	- [Scrum And Extreme Programming](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-I:-SCRUM-AND-EXTREME-PROGRAMMING "Scrum And Extreme Programming")
+	-  [Project Managment](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-II:--PROJECT-MANAGMENT)
+	- [Project Managment II](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-III:--PROJECT-MANAGMENT-II)
+	-  [Agile Project Management With Scrum](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-IV:-AGILE-PROJECT-MANAGEMENT-WITH-SCRUM "Agile Project Management With Scrum")
+	-  [Como Ser Un Srum Master Extraordinario](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-V:-COMO-SER-UN-SRUM-MASTER-EXTRAORDINARIO "Como Ser Un Srum Master Extraordinario")
+	-  [Proyectos Agiles Con Scrum](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-VI:-PROYECTOS-AGILES-CON-SCRUM "Proyectos Agiles Con Scrum")
+	-  [Head First Agile](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-VII:-HEAD-FIRST-AGILE "Head First Agile")
+	-  [Great Big Agile](https://github.com/Tecsoess/Metodologia-Agil/wiki/CAPITULO-VIII:--GREAT-BIG-AGILE "Great Big Agile")
+	
 
 
