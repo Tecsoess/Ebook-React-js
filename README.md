@@ -70,6 +70,19 @@
 - Procesador de pago y motor de búsqueda.
 
 
+* [Jira software](https://github.com/Tecsoess/Jira/wiki)
+	- [Jira Essentials](https://github.com/Tecsoess/Jira/wiki/CAPITULO-I:--JIRA-ESSENTIALS "Jira Essentials")
+	-  [Jira Strategy Admin Workbook](https://github.com/Tecsoess/Jira/wiki/CAPITULO-II:-JIRA-STRATEGY-ADMIN-WORKBOOK "Jira Strategy Admin Workbook")
+	- [Mastering Jira](https://github.com/Tecsoess/Jira/wiki/CAPITULO-III:-MASTERING-JIRA "Mastering Jira")
+	-  [Practical Jira Pluggins](https://github.com/Tecsoess/Jira/wiki/CAPITULO-IV:-PRACTICAL-JIRA-PLUGGINS "Practical Jira Pluggins")
+	-  [Jira Data Sanity Analyzer](https://github.com/Tecsoess/Jira/wiki/CAPITULO-V:-JIRA-DATA-SANITY-ANALYZER "Jira Data Sanity Analyzer")
+	
+* [Navicat](https://github.com/Tecsoess/Navicat/wiki)
+	- [Navicat Version 11 User Guide](https://github.com/Tecsoess/Navicat/wiki/CAPITULO-I:-NAVICAT-VERSION-11-USER-GUIDE "Navicat Version 11 User Guide")
+	-  [Navicat Version 12 User Guide](https://github.com/Tecsoess/Navicat/wiki/CAPITULO-II:-NAVICAT-VERSION-12-USER-GUIDE "Navicat Version 12 User Guide")
+	-  [Navicat Version 15 User Guide](https://github.com/Tecsoess/Navicat/wiki/CAPITULO-III:-NAVICAT-VERSION-15-USER-GUIDE "Navicat Version 15 User Guide")
+	-  
+
 
 
 
